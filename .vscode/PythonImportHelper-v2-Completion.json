@@ -1,0 +1,667 @@
+[
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "error_message",
+        "importPath": "validate.format",
+        "description": "validate.format",
+        "isExtraImport": true,
+        "detail": "validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "get_categories_content",
+        "importPath": "validate.format",
+        "description": "validate.format",
+        "isExtraImport": true,
+        "detail": "validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "check_alphabetical_order",
+        "importPath": "validate.format",
+        "description": "validate.format",
+        "isExtraImport": true,
+        "detail": "validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "check_title",
+        "importPath": "validate.format",
+        "description": "validate.format",
+        "isExtraImport": true,
+        "detail": "validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "check_description",
+        "importPath": "validate.format",
+        "description": "validate.format",
+        "isExtraImport": true,
+        "detail": "validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "max_description_length",
+        "importPath": "validate.format",
+        "description": "validate.format",
+        "isExtraImport": true,
+        "detail": "validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "check_auth",
+        "importPath": "validate.format",
+        "description": "validate.format",
+        "isExtraImport": true,
+        "detail": "validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "auth_keys",
+        "importPath": "validate.format",
+        "description": "validate.format",
+        "isExtraImport": true,
+        "detail": "validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "check_https",
+        "importPath": "validate.format",
+        "description": "validate.format",
+        "isExtraImport": true,
+        "detail": "validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "https_keys",
+        "importPath": "validate.format",
+        "description": "validate.format",
+        "isExtraImport": true,
+        "detail": "validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "check_cors",
+        "importPath": "validate.format",
+        "description": "validate.format",
+        "isExtraImport": true,
+        "detail": "validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "cors_keys",
+        "importPath": "validate.format",
+        "description": "validate.format",
+        "isExtraImport": true,
+        "detail": "validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "check_entry",
+        "importPath": "validate.format",
+        "description": "validate.format",
+        "isExtraImport": true,
+        "detail": "validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "check_file_format",
+        "importPath": "validate.format",
+        "description": "validate.format",
+        "isExtraImport": true,
+        "detail": "validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "min_entries_per_category",
+        "importPath": "validate.format",
+        "description": "validate.format",
+        "isExtraImport": true,
+        "detail": "validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "num_segments",
+        "importPath": "validate.format",
+        "description": "validate.format",
+        "isExtraImport": true,
+        "detail": "validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "find_links_in_text",
+        "importPath": "validate.links",
+        "description": "validate.links",
+        "isExtraImport": true,
+        "detail": "validate.links",
+        "documentation": {}
+    },
+    {
+        "label": "check_duplicate_links",
+        "importPath": "validate.links",
+        "description": "validate.links",
+        "isExtraImport": true,
+        "detail": "validate.links",
+        "documentation": {}
+    },
+    {
+        "label": "fake_user_agent",
+        "importPath": "validate.links",
+        "description": "validate.links",
+        "isExtraImport": true,
+        "detail": "validate.links",
+        "documentation": {}
+    },
+    {
+        "label": "get_host_from_link",
+        "importPath": "validate.links",
+        "description": "validate.links",
+        "isExtraImport": true,
+        "detail": "validate.links",
+        "documentation": {}
+    },
+    {
+        "label": "has_cloudflare_protection",
+        "importPath": "validate.links",
+        "description": "validate.links",
+        "isExtraImport": true,
+        "detail": "validate.links",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "punctuation",
+        "importPath": "string",
+        "description": "string",
+        "isExtraImport": true,
+        "detail": "string",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "requests.models",
+        "description": "requests.models",
+        "isExtraImport": true,
+        "detail": "requests.models",
+        "documentation": {}
+    },
+    {
+        "label": "TestValidadeFormat",
+        "kind": 6,
+        "importPath": "scripts.tests.test_validate_format",
+        "description": "scripts.tests.test_validate_format",
+        "peekOfCode": "class TestValidadeFormat(unittest.TestCase):\n    def test_error_message_return_and_return_type(self):\n        line_num_unity = 1\n        line_num_ten = 10\n        line_num_hundred = 100\n        line_num_thousand = 1000\n        msg = 'This is a unit test'\n        err_msg_unity = error_message(line_num_unity, msg)\n        err_msg_ten = error_message(line_num_ten, msg)\n        err_msg_hundred = error_message(line_num_hundred, msg)",
+        "detail": "scripts.tests.test_validate_format",
+        "documentation": {}
+    },
+    {
+        "label": "FakeResponse",
+        "kind": 6,
+        "importPath": "scripts.tests.test_validate_links",
+        "description": "scripts.tests.test_validate_links",
+        "peekOfCode": "class FakeResponse():\n    def __init__(self, code: int, headers: dict, text: str) -> None:\n        self.status_code = code\n        self.headers = headers\n        self.text = text\nclass TestValidateLinks(unittest.TestCase):\n    def setUp(self):\n        self.duplicate_links = [\n            'https://www.example.com',\n            'https://www.example.com',",
+        "detail": "scripts.tests.test_validate_links",
+        "documentation": {}
+    },
+    {
+        "label": "TestValidateLinks",
+        "kind": 6,
+        "importPath": "scripts.tests.test_validate_links",
+        "description": "scripts.tests.test_validate_links",
+        "peekOfCode": "class TestValidateLinks(unittest.TestCase):\n    def setUp(self):\n        self.duplicate_links = [\n            'https://www.example.com',\n            'https://www.example.com',\n            'https://www.example.com',\n            'https://www.anotherexample.com',\n        ]\n        self.no_duplicate_links = [\n            'https://www.firstexample.com',",
+        "detail": "scripts.tests.test_validate_links",
+        "documentation": {}
+    },
+    {
+        "label": "error_message",
+        "kind": 2,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "def error_message(line_number: int, message: str) -> str:\n    line = line_number + 1\n    return f'(L{line:03d}) {message}'\ndef get_categories_content(contents: List[str]) -> Tuple[Categories, CategoriesLineNumber]:\n    categories = {}\n    category_line_num = {}\n    for line_num, line_content in enumerate(contents):\n        if line_content.startswith(anchor):\n            category = line_content.split(anchor)[1].strip()\n            categories[category] = []",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "get_categories_content",
+        "kind": 2,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "def get_categories_content(contents: List[str]) -> Tuple[Categories, CategoriesLineNumber]:\n    categories = {}\n    category_line_num = {}\n    for line_num, line_content in enumerate(contents):\n        if line_content.startswith(anchor):\n            category = line_content.split(anchor)[1].strip()\n            categories[category] = []\n            category_line_num[category] = line_num\n            continue\n        if not line_content.startswith('|') or line_content.startswith('|---'):",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "check_alphabetical_order",
+        "kind": 2,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "def check_alphabetical_order(lines: List[str]) -> List[str]:\n    err_msgs = []\n    categories, category_line_num = get_categories_content(contents=lines)\n    for category, api_list in categories.items():\n        if sorted(api_list) != api_list:\n            err_msg = error_message(\n                category_line_num[category], \n                f'{category} category is not alphabetical order'\n            )\n            err_msgs.append(err_msg)",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "check_title",
+        "kind": 2,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "def check_title(line_num: int, raw_title: str) -> List[str]:\n    err_msgs = []\n    title_match = link_re.match(raw_title)\n    # url should be wrapped in \"[TITLE](LINK)\" Markdown syntax\n    if not title_match:\n        err_msg = error_message(line_num, 'Title syntax should be \"[TITLE](LINK)\"')\n        err_msgs.append(err_msg)\n    else:\n        # do not allow \"... API\" in the entry title\n        title = title_match.group(1)",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "check_description",
+        "kind": 2,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "def check_description(line_num: int, description: str) -> List[str]:\n    err_msgs = []\n    first_char = description[0]\n    if first_char.upper() != first_char:\n        err_msg = error_message(line_num, 'first character of description is not capitalized')\n        err_msgs.append(err_msg)\n    last_char = description[-1]\n    if last_char in punctuation:\n        err_msg = error_message(line_num, f'description should not end with {last_char}')\n        err_msgs.append(err_msg)",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "check_auth",
+        "kind": 2,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "def check_auth(line_num: int, auth: str) -> List[str]:\n    err_msgs = []\n    backtick = '`'\n    if auth != 'No' and (not auth.startswith(backtick) or not auth.endswith(backtick)):\n        err_msg = error_message(line_num, 'auth value is not enclosed with `backticks`')\n        err_msgs.append(err_msg)\n    if auth.replace(backtick, '') not in auth_keys:\n        err_msg = error_message(line_num, f'{auth} is not a valid Auth option')\n        err_msgs.append(err_msg)\n    return err_msgs",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "check_https",
+        "kind": 2,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "def check_https(line_num: int, https: str) -> List[str]:\n    err_msgs = []\n    if https not in https_keys:\n        err_msg = error_message(line_num, f'{https} is not a valid HTTPS option')\n        err_msgs.append(err_msg)\n    return err_msgs\ndef check_cors(line_num: int, cors: str) -> List[str]:\n    err_msgs = []\n    if cors not in cors_keys:\n        err_msg = error_message(line_num, f'{cors} is not a valid CORS option')",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "check_cors",
+        "kind": 2,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "def check_cors(line_num: int, cors: str) -> List[str]:\n    err_msgs = []\n    if cors not in cors_keys:\n        err_msg = error_message(line_num, f'{cors} is not a valid CORS option')\n        err_msgs.append(err_msg)\n    return err_msgs\ndef check_entry(line_num: int, segments: List[str]) -> List[str]:\n    raw_title = segments[index_title]\n    description = segments[index_desc]\n    auth = segments[index_auth]",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "check_entry",
+        "kind": 2,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "def check_entry(line_num: int, segments: List[str]) -> List[str]:\n    raw_title = segments[index_title]\n    description = segments[index_desc]\n    auth = segments[index_auth]\n    https = segments[index_https]\n    cors = segments[index_cors]\n    title_err_msgs = check_title(line_num, raw_title)\n    desc_err_msgs = check_description(line_num, description)\n    auth_err_msgs = check_auth(line_num, auth)\n    https_err_msgs = check_https(line_num, https)",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "check_file_format",
+        "kind": 2,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "def check_file_format(lines: List[str]) -> List[str]:\n    err_msgs = []\n    category_title_in_index = []\n    alphabetical_err_msgs = check_alphabetical_order(lines)\n    err_msgs.extend(alphabetical_err_msgs)\n    num_in_category = min_entries_per_category + 1\n    category = ''\n    category_line = 0\n    for line_num, line_content in enumerate(lines):\n        category_title_match = category_title_in_index_re.match(line_content)",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "def main(filename: str) -> None:\n    with open(filename, mode='r', encoding='utf-8') as file:\n        lines = list(line.rstrip() for line in file)\n    file_format_err_msgs = check_file_format(lines)\n    if file_format_err_msgs:\n        for err_msg in file_format_err_msgs:\n            print(err_msg)\n        sys.exit(1)\nif __name__ == '__main__':\n    num_args = len(sys.argv)",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "punctuation",
+        "kind": 5,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "punctuation = punctuation.replace('()', '')\nanchor = '###'\nauth_keys = ['apiKey', 'OAuth', 'X-Mashape-Key', 'User-Agent', 'No']\nhttps_keys = ['Yes', 'No']\ncors_keys = ['Yes', 'No', 'Unknown']\nindex_title = 0\nindex_desc = 1\nindex_auth = 2\nindex_https = 3\nindex_cors = 4",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "anchor",
+        "kind": 5,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "anchor = '###'\nauth_keys = ['apiKey', 'OAuth', 'X-Mashape-Key', 'User-Agent', 'No']\nhttps_keys = ['Yes', 'No']\ncors_keys = ['Yes', 'No', 'Unknown']\nindex_title = 0\nindex_desc = 1\nindex_auth = 2\nindex_https = 3\nindex_cors = 4\nnum_segments = 5",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "auth_keys",
+        "kind": 5,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "auth_keys = ['apiKey', 'OAuth', 'X-Mashape-Key', 'User-Agent', 'No']\nhttps_keys = ['Yes', 'No']\ncors_keys = ['Yes', 'No', 'Unknown']\nindex_title = 0\nindex_desc = 1\nindex_auth = 2\nindex_https = 3\nindex_cors = 4\nnum_segments = 5\nmin_entries_per_category = 3",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "https_keys",
+        "kind": 5,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "https_keys = ['Yes', 'No']\ncors_keys = ['Yes', 'No', 'Unknown']\nindex_title = 0\nindex_desc = 1\nindex_auth = 2\nindex_https = 3\nindex_cors = 4\nnum_segments = 5\nmin_entries_per_category = 3\nmax_description_length = 100",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "cors_keys",
+        "kind": 5,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "cors_keys = ['Yes', 'No', 'Unknown']\nindex_title = 0\nindex_desc = 1\nindex_auth = 2\nindex_https = 3\nindex_cors = 4\nnum_segments = 5\nmin_entries_per_category = 3\nmax_description_length = 100\nanchor_re = re.compile(anchor + '\\s(.+)')",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "index_title",
+        "kind": 5,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "index_title = 0\nindex_desc = 1\nindex_auth = 2\nindex_https = 3\nindex_cors = 4\nnum_segments = 5\nmin_entries_per_category = 3\nmax_description_length = 100\nanchor_re = re.compile(anchor + '\\s(.+)')\ncategory_title_in_index_re = re.compile('\\*\\s\\[(.*)\\]')",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "index_desc",
+        "kind": 5,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "index_desc = 1\nindex_auth = 2\nindex_https = 3\nindex_cors = 4\nnum_segments = 5\nmin_entries_per_category = 3\nmax_description_length = 100\nanchor_re = re.compile(anchor + '\\s(.+)')\ncategory_title_in_index_re = re.compile('\\*\\s\\[(.*)\\]')\nlink_re = re.compile('\\[(.+)\\]\\((http.*)\\)')",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "index_auth",
+        "kind": 5,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "index_auth = 2\nindex_https = 3\nindex_cors = 4\nnum_segments = 5\nmin_entries_per_category = 3\nmax_description_length = 100\nanchor_re = re.compile(anchor + '\\s(.+)')\ncategory_title_in_index_re = re.compile('\\*\\s\\[(.*)\\]')\nlink_re = re.compile('\\[(.+)\\]\\((http.*)\\)')\n# Type aliases",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "index_https",
+        "kind": 5,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "index_https = 3\nindex_cors = 4\nnum_segments = 5\nmin_entries_per_category = 3\nmax_description_length = 100\nanchor_re = re.compile(anchor + '\\s(.+)')\ncategory_title_in_index_re = re.compile('\\*\\s\\[(.*)\\]')\nlink_re = re.compile('\\[(.+)\\]\\((http.*)\\)')\n# Type aliases\nAPIList = List[str]",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "index_cors",
+        "kind": 5,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "index_cors = 4\nnum_segments = 5\nmin_entries_per_category = 3\nmax_description_length = 100\nanchor_re = re.compile(anchor + '\\s(.+)')\ncategory_title_in_index_re = re.compile('\\*\\s\\[(.*)\\]')\nlink_re = re.compile('\\[(.+)\\]\\((http.*)\\)')\n# Type aliases\nAPIList = List[str]\nCategories = Dict[str, APIList]",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "num_segments",
+        "kind": 5,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "num_segments = 5\nmin_entries_per_category = 3\nmax_description_length = 100\nanchor_re = re.compile(anchor + '\\s(.+)')\ncategory_title_in_index_re = re.compile('\\*\\s\\[(.*)\\]')\nlink_re = re.compile('\\[(.+)\\]\\((http.*)\\)')\n# Type aliases\nAPIList = List[str]\nCategories = Dict[str, APIList]\nCategoriesLineNumber = Dict[str, int]",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "min_entries_per_category",
+        "kind": 5,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "min_entries_per_category = 3\nmax_description_length = 100\nanchor_re = re.compile(anchor + '\\s(.+)')\ncategory_title_in_index_re = re.compile('\\*\\s\\[(.*)\\]')\nlink_re = re.compile('\\[(.+)\\]\\((http.*)\\)')\n# Type aliases\nAPIList = List[str]\nCategories = Dict[str, APIList]\nCategoriesLineNumber = Dict[str, int]\ndef error_message(line_number: int, message: str) -> str:",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "max_description_length",
+        "kind": 5,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "max_description_length = 100\nanchor_re = re.compile(anchor + '\\s(.+)')\ncategory_title_in_index_re = re.compile('\\*\\s\\[(.*)\\]')\nlink_re = re.compile('\\[(.+)\\]\\((http.*)\\)')\n# Type aliases\nAPIList = List[str]\nCategories = Dict[str, APIList]\nCategoriesLineNumber = Dict[str, int]\ndef error_message(line_number: int, message: str) -> str:\n    line = line_number + 1",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "anchor_re",
+        "kind": 5,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "anchor_re = re.compile(anchor + '\\s(.+)')\ncategory_title_in_index_re = re.compile('\\*\\s\\[(.*)\\]')\nlink_re = re.compile('\\[(.+)\\]\\((http.*)\\)')\n# Type aliases\nAPIList = List[str]\nCategories = Dict[str, APIList]\nCategoriesLineNumber = Dict[str, int]\ndef error_message(line_number: int, message: str) -> str:\n    line = line_number + 1\n    return f'(L{line:03d}) {message}'",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "category_title_in_index_re",
+        "kind": 5,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "category_title_in_index_re = re.compile('\\*\\s\\[(.*)\\]')\nlink_re = re.compile('\\[(.+)\\]\\((http.*)\\)')\n# Type aliases\nAPIList = List[str]\nCategories = Dict[str, APIList]\nCategoriesLineNumber = Dict[str, int]\ndef error_message(line_number: int, message: str) -> str:\n    line = line_number + 1\n    return f'(L{line:03d}) {message}'\ndef get_categories_content(contents: List[str]) -> Tuple[Categories, CategoriesLineNumber]:",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "link_re",
+        "kind": 5,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "link_re = re.compile('\\[(.+)\\]\\((http.*)\\)')\n# Type aliases\nAPIList = List[str]\nCategories = Dict[str, APIList]\nCategoriesLineNumber = Dict[str, int]\ndef error_message(line_number: int, message: str) -> str:\n    line = line_number + 1\n    return f'(L{line:03d}) {message}'\ndef get_categories_content(contents: List[str]) -> Tuple[Categories, CategoriesLineNumber]:\n    categories = {}",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "APIList",
+        "kind": 5,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "APIList = List[str]\nCategories = Dict[str, APIList]\nCategoriesLineNumber = Dict[str, int]\ndef error_message(line_number: int, message: str) -> str:\n    line = line_number + 1\n    return f'(L{line:03d}) {message}'\ndef get_categories_content(contents: List[str]) -> Tuple[Categories, CategoriesLineNumber]:\n    categories = {}\n    category_line_num = {}\n    for line_num, line_content in enumerate(contents):",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "Categories",
+        "kind": 5,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "Categories = Dict[str, APIList]\nCategoriesLineNumber = Dict[str, int]\ndef error_message(line_number: int, message: str) -> str:\n    line = line_number + 1\n    return f'(L{line:03d}) {message}'\ndef get_categories_content(contents: List[str]) -> Tuple[Categories, CategoriesLineNumber]:\n    categories = {}\n    category_line_num = {}\n    for line_num, line_content in enumerate(contents):\n        if line_content.startswith(anchor):",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "CategoriesLineNumber",
+        "kind": 5,
+        "importPath": "scripts.validate.format",
+        "description": "scripts.validate.format",
+        "peekOfCode": "CategoriesLineNumber = Dict[str, int]\ndef error_message(line_number: int, message: str) -> str:\n    line = line_number + 1\n    return f'(L{line:03d}) {message}'\ndef get_categories_content(contents: List[str]) -> Tuple[Categories, CategoriesLineNumber]:\n    categories = {}\n    category_line_num = {}\n    for line_num, line_content in enumerate(contents):\n        if line_content.startswith(anchor):\n            category = line_content.split(anchor)[1].strip()",
+        "detail": "scripts.validate.format",
+        "documentation": {}
+    },
+    {
+        "label": "find_links_in_text",
+        "kind": 2,
+        "importPath": "scripts.validate.links",
+        "description": "scripts.validate.links",
+        "peekOfCode": "def find_links_in_text(text: str) -> List[str]:\n    \"\"\"Find links in a text and return a list of URLs.\"\"\"\n    link_pattern = re.compile(r'((?:https?://|www\\d{0,3}[.]|[a-z0-9.\\-]+[.][a-z]{2,4}/)(?:[^\\s()<>]+|\\(([^\\s()<>]+|(\\([^\\s()<>]+\\)))*\\))+(?:\\(([^\\s()<>]+|(\\([^\\s()<>]+\\)))*\\)|[^\\s`!()\\[\\]{};:\\'\\\".,<>?«»“”‘’]))')\n    raw_links = re.findall(link_pattern, text)\n    links = [\n        str(raw_link[0]) for raw_link in raw_links\n    ]\n    return links\ndef find_links_in_file(filename: str) -> List[str]:\n    \"\"\"Find links in a file and return a list of URLs from text file.\"\"\"",
+        "detail": "scripts.validate.links",
+        "documentation": {}
+    },
+    {
+        "label": "find_links_in_file",
+        "kind": 2,
+        "importPath": "scripts.validate.links",
+        "description": "scripts.validate.links",
+        "peekOfCode": "def find_links_in_file(filename: str) -> List[str]:\n    \"\"\"Find links in a file and return a list of URLs from text file.\"\"\"\n    with open(filename, mode='r', encoding='utf-8') as file:\n        readme = file.read()\n        index_section = readme.find('## Index')\n        if index_section == -1:\n            index_section = 0\n        content = readme[index_section:]\n    links = find_links_in_text(content)\n    return links",
+        "detail": "scripts.validate.links",
+        "documentation": {}
+    },
+    {
+        "label": "check_duplicate_links",
+        "kind": 2,
+        "importPath": "scripts.validate.links",
+        "description": "scripts.validate.links",
+        "peekOfCode": "def check_duplicate_links(links: List[str]) -> Tuple[bool, List]:\n    \"\"\"Check for duplicated links.\n    Returns a tuple with True or False and duplicate list.\n    \"\"\"\n    seen = {}\n    duplicates = []\n    has_duplicate = False\n    for link in links:\n        link = link.rstrip('/')\n        if link not in seen:",
+        "detail": "scripts.validate.links",
+        "documentation": {}
+    },
+    {
+        "label": "fake_user_agent",
+        "kind": 2,
+        "importPath": "scripts.validate.links",
+        "description": "scripts.validate.links",
+        "peekOfCode": "def fake_user_agent() -> str:\n    \"\"\"Faking user agent as some hosting services block not-whitelisted UA.\"\"\"\n    user_agents = [\n        'Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1467.0 Safari/537.36',\n        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko)',\n        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36',\n        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36',\n    ]\n    return random.choice(user_agents)\ndef get_host_from_link(link: str) -> str:",
+        "detail": "scripts.validate.links",
+        "documentation": {}
+    },
+    {
+        "label": "get_host_from_link",
+        "kind": 2,
+        "importPath": "scripts.validate.links",
+        "description": "scripts.validate.links",
+        "peekOfCode": "def get_host_from_link(link: str) -> str:\n    host = link.split('://', 1)[1] if '://' in link else link\n    # Remove routes, arguments and anchors\n    if '/' in host:\n        host = host.split('/', 1)[0]\n    elif '?' in host:\n        host = host.split('?', 1)[0]\n    elif '#' in host:\n        host = host.split('#', 1)[0]\n    return host",
+        "detail": "scripts.validate.links",
+        "documentation": {}
+    },
+    {
+        "label": "has_cloudflare_protection",
+        "kind": 2,
+        "importPath": "scripts.validate.links",
+        "description": "scripts.validate.links",
+        "peekOfCode": "def has_cloudflare_protection(resp: Response) -> bool:\n    \"\"\"Checks if there is any cloudflare protection in the response.\n    Cloudflare implements multiple network protections on a given link,\n    this script tries to detect if any of them exist in the response from request.\n    Common protections have the following HTTP code as a response:\n        - 403: When host header is missing or incorrect (and more)\n        - 503: When DDOS protection exists\n    See more about it at:\n        - https://support.cloudflare.com/hc/en-us/articles/115003014512-4xx-Client-Error\n        - https://support.cloudflare.com/hc/en-us/articles/115003011431-Troubleshooting-Cloudflare-5XX-errors",
+        "detail": "scripts.validate.links",
+        "documentation": {}
+    },
+    {
+        "label": "check_if_link_is_working",
+        "kind": 2,
+        "importPath": "scripts.validate.links",
+        "description": "scripts.validate.links",
+        "peekOfCode": "def check_if_link_is_working(link: str) -> Tuple[bool, str]:\n    \"\"\"Checks if a link is working.\n    If an error is identified when the request for the link occurs,\n    the return will be a tuple with the first value True and the second\n    value a string containing the error message.\n    If no errors are identified, the return will be a tuple with the\n    first value False and the second an empty string.\n    \"\"\"\n    has_error = False\n    error_message = ''",
+        "detail": "scripts.validate.links",
+        "documentation": {}
+    },
+    {
+        "label": "check_if_list_of_links_are_working",
+        "kind": 2,
+        "importPath": "scripts.validate.links",
+        "description": "scripts.validate.links",
+        "peekOfCode": "def check_if_list_of_links_are_working(list_of_links: List[str]) -> List[str]:\n    error_messages = []\n    for link in list_of_links:\n        has_error, error_message = check_if_link_is_working(link)\n        if has_error:\n            error_messages.append(error_message)\n    return error_messages\ndef start_duplicate_links_checker(links: List[str]) -> None:\n    print('Checking for duplicate links...')\n    has_duplicate_link, duplicates_links = check_duplicate_links(links)",
+        "detail": "scripts.validate.links",
+        "documentation": {}
+    },
+    {
+        "label": "start_duplicate_links_checker",
+        "kind": 2,
+        "importPath": "scripts.validate.links",
+        "description": "scripts.validate.links",
+        "peekOfCode": "def start_duplicate_links_checker(links: List[str]) -> None:\n    print('Checking for duplicate links...')\n    has_duplicate_link, duplicates_links = check_duplicate_links(links)\n    if has_duplicate_link:\n        print(f'Found duplicate links:')\n        for duplicate_link in duplicates_links:\n            print(duplicate_link)\n        sys.exit(1)\n    else:\n        print('No duplicate links.')",
+        "detail": "scripts.validate.links",
+        "documentation": {}
+    },
+    {
+        "label": "start_links_working_checker",
+        "kind": 2,
+        "importPath": "scripts.validate.links",
+        "description": "scripts.validate.links",
+        "peekOfCode": "def start_links_working_checker(links: List[str]) -> None:\n    print(f'Checking if {len(links)} links are working...')\n    errors = check_if_list_of_links_are_working(links)\n    if errors:\n        num_errors = len(errors)\n        print(f'Apparently {num_errors} links are not working properly. See in:')\n        for error_message in errors:\n            print(error_message)\n        sys.exit(1)\ndef main(filename: str, only_duplicate_links_checker: bool) -> None:",
+        "detail": "scripts.validate.links",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "scripts.validate.links",
+        "description": "scripts.validate.links",
+        "peekOfCode": "def main(filename: str, only_duplicate_links_checker: bool) -> None:\n    links = find_links_in_file(filename)\n    start_duplicate_links_checker(links)\n    if not only_duplicate_links_checker:\n        start_links_working_checker(links)\nif __name__ == '__main__':\n    num_args = len(sys.argv)\n    only_duplicate_links_checker = False\n    if num_args < 2:\n        print('No .md file passed')",
+        "detail": "scripts.validate.links",
+        "documentation": {}
+    }
+]
